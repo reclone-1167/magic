@@ -20,3 +20,9 @@ int binarySearch(int arr[], int l, int r, int x)
   
     return -1;
 }
+
+
+int main(){
+    // Pass the array from main function
+    return 0;
+}
